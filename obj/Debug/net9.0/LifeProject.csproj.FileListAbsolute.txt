@@ -1,0 +1,14 @@
+C:\Users\Big Daddy Patrick\Desktop\Programming\C#\LifeProject\bin\Debug\net9.0\LifeProject.exe
+C:\Users\Big Daddy Patrick\Desktop\Programming\C#\LifeProject\bin\Debug\net9.0\LifeProject.deps.json
+C:\Users\Big Daddy Patrick\Desktop\Programming\C#\LifeProject\bin\Debug\net9.0\LifeProject.runtimeconfig.json
+C:\Users\Big Daddy Patrick\Desktop\Programming\C#\LifeProject\bin\Debug\net9.0\LifeProject.dll
+C:\Users\Big Daddy Patrick\Desktop\Programming\C#\LifeProject\bin\Debug\net9.0\LifeProject.pdb
+C:\Users\Big Daddy Patrick\Desktop\Programming\C#\LifeProject\obj\Debug\net9.0\LifeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Big Daddy Patrick\Desktop\Programming\C#\LifeProject\obj\Debug\net9.0\LifeProject.AssemblyInfoInputs.cache
+C:\Users\Big Daddy Patrick\Desktop\Programming\C#\LifeProject\obj\Debug\net9.0\LifeProject.AssemblyInfo.cs
+C:\Users\Big Daddy Patrick\Desktop\Programming\C#\LifeProject\obj\Debug\net9.0\LifeProject.csproj.CoreCompileInputs.cache
+C:\Users\Big Daddy Patrick\Desktop\Programming\C#\LifeProject\obj\Debug\net9.0\LifeProject.dll
+C:\Users\Big Daddy Patrick\Desktop\Programming\C#\LifeProject\obj\Debug\net9.0\refint\LifeProject.dll
+C:\Users\Big Daddy Patrick\Desktop\Programming\C#\LifeProject\obj\Debug\net9.0\LifeProject.pdb
+C:\Users\Big Daddy Patrick\Desktop\Programming\C#\LifeProject\obj\Debug\net9.0\LifeProject.genruntimeconfig.cache
+C:\Users\Big Daddy Patrick\Desktop\Programming\C#\LifeProject\obj\Debug\net9.0\ref\LifeProject.dll
